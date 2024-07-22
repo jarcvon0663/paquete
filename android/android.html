@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html lang="es">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="description" content="Venta de videojuegos retro para diferentes plataformas.">
+    <title>Videojuegos Retro</title>
+    <link rel="icon" type="image/x-icon" href="../img/favicon.ico">
+
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.9.1/font/bootstrap-icons.css">
+    <link rel="preload" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css" as="style"
+        onload="this.onload=null;this.rel='stylesheet'">
+    <noscript>
+        <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/toastify-js/src/toastify.min.css">
+    </noscript>
+    <link rel="stylesheet" href="../css/main.css">
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/gsap/3.11.0/gsap.min.js"></script>
+
+    <!-- Google tag (gtag.js) -->
+    <script async src="https://www.googletagmanager.com/gtag/js?id=G-ZR4WQB7GBD"></script>
+    <script>
+        window.dataLayer = window.dataLayer || [];
+        function gtag() { dataLayer.push(arguments); }
+        gtag('js', new Date());
+
+        gtag('config', 'G-ZR4WQB7GBD');
+    </script>
+</head>
+
+<body>
+    <div class="wrapper" id="contenido-protegido" style="display: none;">
+        <header class="header-mobile">
+            <img class="logo-img" src="../img/logo.png" alt="Logo de Videojuegos Retro">
+            <h1 class="logo">Videojuegosretro</h1>
+            <a href="#"><span id="buscar">🔍</span></a>
+            <button id="logout">🚪 Salir</button>
+        </header>
+        <main>
+            <h2 class="titulo-principal" id="titulo-principal">juegos para <span>📱</span> Android</h2>
+            <header class="encabezado sticky-header">
+                <div class="botones">
+                    <div class="search-bar">
+                        <input type="text" id="search-input" placeholder="🔍 Buscar juegos..." oninput="buscarJuegos()">
+                    </div>
+                    <p class="texto-footer">Puedes filtrar los juegos por celulares con</p>
+                    <br>
+                    <button onclick="ordenarPorPopularidad()" data-short-text="6 o +">
+                        <span>6 o + GB de RAM</span>
+                    </button>
+                    <button onclick="ordenarPorIdBaja()" data-short-text="-6">
+                        <span>- de 6 GB de RAM</span>
+                    </button>
+                </div>
+            </header>
+            <div id="contenedor-productos" class="contenedor-productos">
+                <!-- Esto se va a rellenar con JS -->
+            </div>
+            <!-- Contenedor del pop-up -->
+            <div id="popup-trailer" class="popup">
+                <div class="popup-content">
+                    <span class="popup-close">&times;</span>
+                    <iframe id="popup-video" src="" frameborder="0" allowfullscreen></iframe>
+                </div>
+            </div>
+        </main>
+    </div>
+    <div id="no-autorizado" style="display: none;">
+        <h1>Acceso denegado. Por favor, inicie sesión con sus credenciales o adquiera su propio catálogo.</h1>
+        <br>
+        <a href="../index.html">Volver al inicio de sesión</a>
+        <br>
+        <br>
+        <p>Comprar mi propio catálogo en</p><a href="www.videojuegosretro.store">www.videojuegosretro.store</a>
+    </div>
+
+    <script>
+        document.addEventListener('DOMContentLoaded', function () {
+            const isAuthenticated = localStorage.getItem('authenticated');
+            if (isAuthenticated === 'true') {
+                document.getElementById('contenido-protegido').style.display = 'block';
+            } else {
+                document.getElementById('no-autorizado').style.display = 'block';
+            }
+
+            document.getElementById('logout').addEventListener('click', function () {
+                localStorage.removeItem('authenticated');
+                window.location.href = '../index.html';
+            });
+        });
+    </script>
+    <script>
+        document.getElementById('logout').addEventListener('click', function () {
+            localStorage.removeItem('authenticated');
+            window.location.href = '../index.html';
+        });
+    </script>
+    <script type="text/javascript" src="https://cdn.jsdelivr.net/npm/toastify-js"></script>
+    <script src="../js/main.js"></script>
+    <script src="../js/menu.js"></script>
+</body>
+
+</html>
