@@ -169,6 +169,12 @@ main {
     margin-bottom: 2rem;
 }
 
+.advertencia {
+    color: var(--clr-main);
+    margin-bottom: 1rem;
+    text-align: center;
+}
+
 .contenedor-productos {
     display: grid;
     grid-template-columns: repeat(4, 1fr);
