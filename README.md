@@ -6,3 +6,4 @@ Se actualizó el CSS por segunda vez en producción
 Se agrega al usuario Miller Diaz
 Se  incluyeron más juegos
 se agrega al usuario Rodrigo Rivera 
+Se actualizó la imagen de Ape Escape
