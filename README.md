@@ -4,3 +4,4 @@ Se ajustaron los nombre de tres imagenes
 Se agrega mensaje de advertencia para evitar bloqueos de cuentas por duplicidad
 Se actualizó el CSS por segunda vez en producción
 Se agrega al usuario Miller Diaz
+Se  incluyeron más juegos
