@@ -352,7 +352,7 @@
     "advertencia": "Funciona en cualquier celular"
   },
   {
-    "id": null,
+    "id": "https://1024terabox.com/s/1679blf_XyE4d8uZ7ERYnqw",
     "titulo": "Dragon ball z budokai tenkaichi",
     "imagen": "../img/pc/dragon-ball-z-budokai-tenkaichi.jpg",
     "categoria": {
@@ -1683,7 +1683,7 @@
     "advertencia": "Requiere 6 o mas GB de RAM"
   },
   {
-    "id": null,
+    "id": "https://1024terabox.com/s/1VsoiVqL7pL1vhzEbGuK1jg",
     "titulo": "Fear Effect 2",
     "imagen": "../img/pc/FearEffect2.jpg",
     "categoria": {
@@ -1892,6 +1892,17 @@
     "advertencia": "Funciona en cualquier celular"
   },
   {
+    "id": "https://1024terabox.com/s/1khytffFEWenWuoIycQCqLA",
+    "titulo": "Need for Speed Hot Pursuit 2",
+    "imagen": "../img/pc/Need for Speed Hot Pursuit 2.jpg",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "trailer": "https://www.youtube.com/watch?v=XoUbmviO8gM&list=PLOcifTz3tdk14Q8fsHaj3MDavOZZ66Qhv&index=2",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
     "id": "https://1024terabox.com/s/1Tf-wWgW7nHhi2zfPNAO4eQ",
     "titulo": "Dragon Ball Z",
     "imagen": "../img/pc/DragonBallZ.jpg",
@@ -1901,6 +1912,17 @@
     },
     "trailer": "https://youtu.be/WTzYzPUq_as?si=PYTOAQdwWRjtYxff",
     "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "https://1024terabox.com/s/1YJ_99ICCPvPCPlUpDOvF8w",
+    "titulo": "Bully",
+    "imagen": "../img/pc/Bully.jpg",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "trailer": "https://www.youtube.com/watch?v=N2Jes4toEGw&list=PLrXlEm4MgsbNQx4wD7-EeREkVuX6-Nqfd",
+    "advertencia": "Requiere 6 o mas GB de RAM"
   },
   {
     "id": "https://1024terabox.com/s/1S7gVCu2uXFPMBUn0PHHl_w",
@@ -1914,6 +1936,17 @@
     "advertencia": "Funciona en cualquier celular"
   },
   {
+    "id": "https://1024terabox.com/s/1_hDRQ5d8uMNLPuExFpiIMg",
+    "titulo": "Burnout Revenge",
+    "imagen": "../img/pc/Burnout Revenge.jpg",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "trailer": "https://www.youtube.com/watch?v=l156OZiw5u8",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
     "id": "https://1024terabox.com/s/1WP6drLtekinDXGlBVKLcNA",
     "titulo": "Crash 3",
     "imagen": "../img/pc/Crash3.jpg",
@@ -1923,6 +1956,17 @@
     },
     "trailer": "https://youtu.be/3qrM8Fxsn0E?si=NIqtVXxImCWnk0P7",
     "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "https://1024terabox.com/s/1n1goHoDZ-7LDNQgNlPi1pg",
+    "titulo": "Call of Duty World at War",
+    "imagen": "../img/pc/Call of Duty World at War.jpg",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "trailer": "https://www.youtube.com/watch?v=oV0_vwPH2Wk",
+    "advertencia": "Requiere 6 o mas GB de RAM"
   },
   {
     "id": "https://1024terabox.com/s/1UzHrSlpxGrBlg7V9sSNXsA",
@@ -1936,6 +1980,17 @@
     "advertencia": "Funciona en cualquier celular"
   },
   {
+    "id": "https://1024terabox.com/s/1gvNqkXB1agI_-F-D6NWmHw",
+    "titulo": "Delta Force Black Hawk Down",
+    "imagen": "../img/pc/Delta Force Black Hawk Down.jpg",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "trailer": "https://www.youtube.com/watch?v=IUxzRsYBIeg&list=PLuB7mLeC2g3HMXJIDRB2VBlyET7_EfwVK&index=2",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
     "id": "https://1024terabox.com/s/1AWqdhm_3xZ9UeRaX0m82GA",
     "titulo": "Tony Hawk 4",
     "imagen": "../img/pc/TonyHawk4.jpg",
@@ -1945,6 +2000,17 @@
     },
     "trailer": "https://youtu.be/T3apDZQ3tNc?si=8-NA0evELu69SQij",
     "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "https://1024terabox.com/s/1ffQJQk4-LHw3fjRtt-jAGw",
+    "titulo": "Delta Force Team Sabre",
+    "imagen": "../img/pc/Delta Force Team Sabre.jpg",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "trailer": "https://www.youtube.com/watch?v=5MfVLVXNHdY&list=PLuB7mLeC2g3GCQmUevEr3-UwbBff5qMkI&index=3",
+    "advertencia": "Requiere 6 o mas GB de RAM"
   },
   {
     "id": "https://1024terabox.com/s/18XPSjgPx0501j3gGbIcv1w",
@@ -1958,6 +2024,17 @@
     "advertencia": "Funciona en cualquier celular"
   },
   {
+    "id": "https://1024terabox.com/s/10fn6MG6-ZwfZu5V_4EKPGA",
+    "titulo": "Depredador",
+    "imagen": "../img/pc/Depredador.jpg",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "trailer": "https://www.youtube.com/watch?v=S2bN5Geq7DQ",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
     "id": "https://1024terabox.com/s/1BWpT4ICt2K4kbrHrUFsHVg",
     "titulo": "Tony Hawk 2",
     "imagen": "../img/pc/TonyHawk2.jpg",
@@ -1967,6 +2044,17 @@
     },
     "trailer": "https://youtu.be/FyVtYCL3CVQ?si=5dQFppGI2nHf-JvV",
     "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "https://1024terabox.com/s/1cmjOsPgEOJooOM6-mYcO2w",
+    "titulo": "Downhill Domination",
+    "imagen": "../img/pc/Downhill Domination.jpg",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "trailer": "https://www.youtube.com/watch?v=TjK6JHmZ2Ko",
+    "advertencia": "Requiere 6 o mas GB de RAM"
   },
   {
     "id": "https://1024terabox.com/s/1hRJXqyzLWbDtalehbE2-fg",
@@ -1980,6 +2068,17 @@
     "advertencia": "Funciona en cualquier celular"
   },
   {
+    "id": "https://1024terabox.com/s/11RcbJQiIHo_QBEsPxNaTkA",
+    "titulo": "FIFA Street",
+    "imagen": "../img/pc/FIFA Street.jpg",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "trailer": "https://www.youtube.com/watch?v=IlRZ_q9fir0",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
     "id": "https://1024terabox.com/s/1LddYyOAHHHShXmyRnujGGQ",
     "titulo": "Tomb Raider 3",
     "imagen": "../img/pc/TombRaider3.jpg",
@@ -1989,6 +2088,17 @@
     },
     "trailer": "https://youtu.be/S2ghs2PA-Cg?si=XOyxmfP7EcGsKuxz",
     "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "https://1024terabox.com/s/1IZ3ZJlEtFYf3M-qa0edlbA",
+    "titulo": "FreekStyle",
+    "imagen": "../img/pc/FreekStyle.jpg",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "trailer": "https://www.youtube.com/watch?v=xyR2b_oMc3A",
+    "advertencia": "Requiere 6 o mas GB de RAM"
   },
   {
     "id": "https://1024terabox.com/s/1jk-iw_cJD7OSW1JAx6GQhA",
@@ -2002,6 +2112,17 @@
     "advertencia": "Funciona en cualquier celular"
   },
   {
+    "id": "https://1024terabox.com/s/1wdHdh56ieNEZsooXS3WsnA",
+    "titulo": "Guitar Hero 3",
+    "imagen": "../img/pc/Guitar Hero 3.jpg",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "trailer": "https://www.youtube.com/watch?v=IOCS_95jHtg",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
     "id": "https://1024terabox.com/s/1BzgrF2HNfQwfOWLy-Y0MWA",
     "titulo": "King Of Fighters 95",
     "imagen": "../img/pc/KOF95.jpg",
@@ -2011,6 +2132,17 @@
     },
     "trailer": "https://youtu.be/Y-6Zo2AH5vQ?si=xIvQwiJp9vPta3qt",
     "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "https://1024terabox.com/s/1NWMBeDj_Ypt5p-u3UdNYVQ",
+    "titulo": "Le Tour de France",
+    "imagen": "../img/pc/Le Tour de France.jpg",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "trailer": "https://www.youtube.com/watch?v=8I66NRmb5rQ",
+    "advertencia": "Requiere 6 o mas GB de RAM"
   },
   {
     "id": "https://1024terabox.com/s/1pIFLsXtF2ZjpFOLJMOAfGQ",
@@ -2024,6 +2156,17 @@
     "advertencia": "Funciona en cualquier celular"
   },
   {
+    "id": "https://1024terabox.com/s/1u7Zi0tTGIDE9eX0SA2o-kg",
+    "titulo": "Spartan",
+    "imagen": "../img/pc/Spartan.jpg",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "trailer": "https://www.youtube.com/watch?v=9fZvDyqPEb8",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
     "id": "https://1024terabox.com/s/1f4TQQAFIFxxG_fjfZ0GpsQ",
     "titulo": "Parasite Eve",
     "imagen": "../img/pc/parasite.jpg",
@@ -2035,6 +2178,17 @@
     "advertencia": "Funciona en cualquier celular"
   },
   {
+    "id": "https://1024terabox.com/s/1uLTmlcLrkSAEjsLQyC_nhA",
+    "titulo": "Top Gear RPM Tuning",
+    "imagen": "../img/pc/Top Gear RPM Tuning.jpg",
+    "categoria": {
+      "nombre": "Altos requisitos",
+      "id": "PCalta"
+    },
+    "trailer": "https://www.youtube.com/watch?v=9yZoFwyylxU",
+    "advertencia": "Requiere 6 o mas GB de RAM"
+  },
+  {
     "id": "https://1024terabox.com/s/16cRqDY4nemqzxZNVRL3FbA",
     "titulo": "Capcom vs SNK",
     "imagen": "../img/pc/56.jpg",
@@ -2043,6 +2197,17 @@
       "id": "PCbaja"
     },
     "trailer": "https://youtu.be/l9qCMREV9W0?si=2t1aSZtpohYs2RFv",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "https://1024terabox.com/s/1LY4UzpViA28b0SALpWSsrQ",
+    "titulo": "Ape Escape",
+    "imagen": "../img/pc/Ape Escape.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "trailer": "https://www.youtube.com/watch?v=uj1HkzAOUYs",
     "advertencia": "Funciona en cualquier celular"
   },
   {
@@ -2057,6 +2222,17 @@
     "advertencia": "Funciona en cualquier celular"
   },
   {
+    "id": "https://1024terabox.com/s/10C0oqaNGsH1AvRZVX0LD_g",
+    "titulo": "God of War Chains of Olympus",
+    "imagen": "../img/pc/God of War Chains of Olympus.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "trailer": "https://www.youtube.com/watch?v=l0ou8oP-6LE",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
     "id": "https://1024terabox.com/s/1VbDBHdaB6nYw_eOgUN9jSQ",
     "titulo": "007 El mundo no basta",
     "imagen": "../img/pc/007MundoNoBasta.jpg",
@@ -2065,6 +2241,17 @@
       "id": "PCbaja"
     },
     "trailer": "https://youtu.be/4BU3BAb9IT4?si=PkQ9pl97lHZ4ur5V",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "https://1024terabox.com/s/1W0UvI6e367xciFjSH2VQ0Q",
+    "titulo": "God of War Ghost of Sparta",
+    "imagen": "../img/pc/God of War Ghost of Sparta.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "trailer": "https://www.youtube.com/watch?v=Sh-dv5xygDs&list=PLGKJJhcJXlNzihF4lu7UNQBqpvMyDEMNU&index=2",
     "advertencia": "Funciona en cualquier celular"
   },
   {
@@ -2079,6 +2266,17 @@
     "advertencia": "Funciona en cualquier celular"
   },
   {
+    "id": "https://1024terabox.com/s/1xMropfFLHYb1fjIoeGakEg",
+    "titulo": "Super Smash Bros",
+    "imagen": "../img/pc/Super Smash Bros.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "trailer": "https://www.youtube.com/watch?v=pwgIVXchjiI",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
     "id": "https://1024terabox.com/s/1swMOOxZD5XN-QPk9bsLVKA",
     "titulo": "Army Men Air Attack",
     "imagen": "../img/pc/ArmyMenAA.jpg",
@@ -2087,6 +2285,17 @@
       "id": "PCbaja"
     },
     "trailer": "https://youtu.be/81v0lbS5kwY?si=eZcNYOUdKOsp6Sg9",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "https://1024terabox.com/s/1--ZAbrfN2jV8z8bzZuDV8Q",
+    "titulo": "Mario Party",
+    "imagen": "../img/pc/Mario Party.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "trailer": "https://www.youtube.com/watch?v=mZIX6B4YZxc",
     "advertencia": "Funciona en cualquier celular"
   },
   {
@@ -2101,6 +2310,17 @@
     "advertencia": "Funciona en cualquier celular"
   },
   {
+    "id": "https://1024terabox.com/s/1o90c8jk3z_m2NLrWYnahxw",
+    "titulo": "Mario Party 2",
+    "imagen": "../img/pc/Mario Party 2.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "trailer": "https://www.youtube.com/watch?v=CChFSEuDUjY",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
     "id": "https://1024terabox.com/s/1ahEV1geYpgfOj_razlFY4A",
     "titulo": "Army Men Lock Load",
     "imagen": "../img/pc/ArmyMenLL.jpg",
@@ -2109,6 +2329,17 @@
       "id": "PCbaja"
     },
     "trailer": "https://youtu.be/MQIMal97UEM?si=gC3buREuTNDwdnlV",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "https://1024terabox.com/s/1PkELoOQJ8QzgwZe43gxw3Q",
+    "titulo": "Mario Party 3",
+    "imagen": "../img/pc/Mario Party 3.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "trailer": "https://www.youtube.com/watch?v=5iTQCQGL_1k",
     "advertencia": "Funciona en cualquier celular"
   },
   {
@@ -2123,6 +2354,17 @@
     "advertencia": "Funciona en cualquier celular"
   },
   {
+    "id": "https://1024terabox.com/s/1lFEK9vAxqP6MS0eijT4RDQ",
+    "titulo": "Zelda Ocarina Time",
+    "imagen": "../img/pc/Zelda Ocarina Time.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "trailer": "https://www.youtube.com/watch?v=0Kig7puD59I&list=PLD3B73EF327C63BC9",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
     "id": "https://1024terabox.com/s/1dozYPcerrS-b1jhSRF5doQ",
     "titulo": "Army Men Operation Meltdown",
     "imagen": "../img/pc/ArmyMenOM.jpg",
@@ -2131,6 +2373,17 @@
       "id": "PCbaja"
     },
     "trailer": "https://youtu.be/x07Mswmmfz4?si=xUC_bL-f40iNvDsJ",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "https://1024terabox.com/s/1gVbeFl8hLbB7--Q2sxdScg",
+    "titulo": "TOCA 2",
+    "imagen": "../img/pc/TOCA 2.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "trailer": "https://www.youtube.com/watch?v=ZWOJgg2Gqm4",
     "advertencia": "Funciona en cualquier celular"
   },
   {
@@ -2145,6 +2398,17 @@
     "advertencia": "Funciona en cualquier celular"
   },
   {
+    "id": "https://1024terabox.com/s/1GaTkrXDgiHw-CILstLZ8oQ",
+    "titulo": "Need for Speed 3",
+    "imagen": "../img/pc/Need for Speed 3.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "trailer": "https://www.youtube.com/watch?v=eesHs89P9W8",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
     "id": "https://1024terabox.com/s/12HFt7_myfedJoqz8h4KWGg",
     "titulo": "Army Men Sarge�s Heroes",
     "imagen": "../img/pc/ArmyMenSH.jpg",
@@ -2153,6 +2417,17 @@
       "id": "PCbaja"
     },
     "trailer": "https://youtu.be/rEzmpvuWPGU?si=ysb-FNl2eXFJmHsY",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "https://1024terabox.com/s/17lMCXsdShugYwbCuY4UFig",
+    "titulo": "MLB 2001",
+    "imagen": "../img/pc/MLB 2001.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "trailer": "https://www.youtube.com/watch?v=ihFV2MOr1Rw",
     "advertencia": "Funciona en cualquier celular"
   },
   {
@@ -2167,6 +2442,17 @@
     "advertencia": "Funciona en cualquier celular"
   },
   {
+    "id": "https://1024terabox.com/s/1u9sbMt2WWsYFUCU9aDRgwQ",
+    "titulo": "Gomito 58 Extra Turbo",
+    "imagen": "../img/pc/Gomito 58 Extra Turbo.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "trailer": "https://www.youtube.com/watch?v=KTByTTUqfD4&t=375s",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
     "id": "https://1024terabox.com/s/11dbE7mr0v8ozIzsdyX6VNg",
     "titulo": "Casper",
     "imagen": "../img/pc/casper.jpg",
@@ -2175,6 +2461,17 @@
       "id": "PCbaja"
     },
     "trailer": "https://youtu.be/QubQV1TC2ow?si=l1jLj4CzUUbrjd83",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "https://1024terabox.com/s/1jf1sXMqU99iObwVtTFPFlg",
+    "titulo": "Donkey Kong 64",
+    "imagen": "../img/pc/Donkey Kong 64.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "trailer": "https://www.youtube.com/watch?v=agg2K8K2qc0",
     "advertencia": "Funciona en cualquier celular"
   },
   {
@@ -2189,6 +2486,17 @@
     "advertencia": "Funciona en cualquier celular"
   },
   {
+    "id": "https://1024terabox.com/s/1HEDOYL6_BbWEbX-SZA29Lg",
+    "titulo": "Delta Force",
+    "imagen": "../img/pc/Delta Force.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "trailer": "https://www.youtube.com/watch?v=26ZM_8RI4UA",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
     "id": "https://1024terabox.com/s/1eRY6FsRfinzSNcK3ANDMQg",
     "titulo": "Digimon 2003",
     "imagen": "../img/pc/Digimon2003.jpg",
@@ -2200,6 +2508,17 @@
     "advertencia": "Funciona en cualquier celular"
   },
   {
+    "id": "https://1024terabox.com/s/1iN7VOYZz-MMNhBNoVLzgag",
+    "titulo": "Cruis n World 64",
+    "imagen": "../img/pc/Cruis n World 64.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "trailer": "https://www.youtube.com/watch?v=y2Fw2NzMFCE",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
     "id": "https://1024terabox.com/s/1raKmMcY27gXXZJYXlP8oqg",
     "titulo": "Dino Crisis 1",
     "imagen": "../img/pc/DinoCrisis1.jpg",
@@ -2208,6 +2527,17 @@
       "id": "PCbaja"
     },
     "trailer": "https://youtu.be/gE_izuZ1rxU?si=uZf_GRgqZiDhZx4o",
+    "advertencia": "Funciona en cualquier celular"
+  },
+  {
+    "id": "https://1024terabox.com/s/1GM31asa5NgmwQnzqStzwaw",
+    "titulo": "Cruis n USA 64",
+    "imagen": "../img/pc/Cruis n USA 64.jpg",
+    "categoria": {
+      "nombre": "Bajos requisitos",
+      "id": "PCbaja"
+    },
+    "trailer": "https://www.youtube.com/watch?v=PjXE2BCv32Q",
     "advertencia": "Funciona en cualquier celular"
   },
   {
