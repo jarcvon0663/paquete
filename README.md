@@ -9,3 +9,4 @@ se agrega al usuario Rodrigo Rivera
 23 de julio de 2024: Se actualizó la imagen de Ape Escape
 29 de julio 2024, Se agregó a Nelson Benavides
 2 de agosto 2024, se agregó a Brayan Penagos
+6 de agosto, se incluye a Jean 471
