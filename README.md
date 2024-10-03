@@ -10,4 +10,5 @@ se agrega al usuario Rodrigo Rivera
 29 de julio 2024, Se agregó a Nelson Benavides
 2 de agosto 2024, se agregó a Brayan Penagos
 6 de agosto, se incluye a Jean 471
-30 de septiembre, se agregó a iego Noriega
+30 de septiembre, se agregó a Diego Noriega
+2 de Octubre, se agregó a Victor Moreno
