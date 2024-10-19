@@ -12,3 +12,4 @@ se agrega al usuario Rodrigo Rivera
 6 de agosto, se incluye a Jean 471
 30 de septiembre, se agregó a Diego Noriega
 2 de Octubre, se agregó a Victor Moreno
+19 de octubre se añadio a Gerlin Peralta
