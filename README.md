@@ -13,3 +13,4 @@ se agrega al usuario Rodrigo Rivera
 30 de septiembre, se agregó a Diego Noriega
 2 de Octubre, se agregó a Victor Moreno
 19 de octubre se añadio a Gerlin Peralta
+8 de noviembre se añadió a Julian Aldana
