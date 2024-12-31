@@ -14,3 +14,4 @@ se agrega al usuario Rodrigo Rivera
 2 de Octubre, se agregó a Victor Moreno
 19 de octubre se añadio a Gerlin Peralta
 8 de noviembre se añadió a Julian Aldana
+31 de diciembre de 2024, se añadió a Angel Zamudio
